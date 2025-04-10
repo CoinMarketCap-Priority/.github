@@ -220,3 +220,90 @@ This report provides a comprehensive view of CoinMarketCap’s organizational st
 - [CoinMarketCap Leadership Changes Post-Acquisition](https://www.theblockcrypto.com/post/76437/coinmarketcap-leadership-team-leaves-after-binance-acquisition)
 - [Reflexivity Research Partnership with CoinMarketCap](https://www.prnewswire.com/news-releases/defi-technologies-subsidiary-reflexivity-research-partners-with-coinmarketcap-to-deliver-crypto-insights-302180054.html)
 - [CoinMarketCap Founders and History](https://en.wikipedia.org/wiki/Coinmarketcap)
+- 
+### Top Tokens in DePIN, AI Agents, and SciAI News on April 10, 2025
+
+#### DePIN Tokens
+DePIN (Decentralized Physical Infrastructure Network) tokens are designed to facilitate the creation and management of decentralized physical infrastructure. Here are the top DePIN tokens by market capitalization as of April 10, 2025:
+
+* **RenderRENDER**:
+  - **Price**: $3.32
+  - **1h %**: 2.14%
+  - **24h %**: 14.69%
+  - **7d %**: 10.33%
+  - **Market Cap**: $1.72B
+  - **Volume**: $168,256,337
+  - **Circulating Supply**: 517.71M RENDER
+
+* **WalrusWAL**:
+  - **Price**: $0.4566
+  - **1h %**: 0.75%
+  - **24h %**: 10.53%
+  - **7d %**: 21.95%
+  - **Market Cap**: $585.7M
+  - **Volume**: $89,969,657
+  - **Circulating Supply**: 1.28B WAL
+
+* **BitTorrent BTT**:
+  - **Price**: $0.065926
+  - **1h %**: 0.50%
+  - **24h %**: 4.53%
+  - **7d %**: 10.44%
+  - **Market Cap**: $584.37M
+  - **Volume**: $22,822,150
+  - **Circulating Supply**: 986.06T BTT
+
+#### AI Agents Tokens
+AI Agents tokens are designed to represent and manage AI systems that can perform various tasks autonomously. Here are the top AI Agents tokens by market capitalization as of April 10, 2025:
+
+* **Virtuals ProtocolVIRTUAL**:
+  - **Price**: $0.4883
+  - **1h %**: 0.00%
+  - **24h %**: 10.22%
+  - **7d %**: 12.80%
+  - **Market Cap**: $318.01M
+  - **Volume**: $121,073,119
+  - **Circulating Supply**: 651.18M VIRTUAL
+
+#### SciAI News
+The AI and DePIN sectors have seen significant growth and development in 2025. Here are some key highlights and news:
+
+- **AI Agents Sector Growth**:
+  - The AI agents sector has grown from almost nothing to over $15 billion in a matter of months, with predictions that it will reach $250 billion by the end of the year
+  - Virtuals Protocol, the leading platform for AI agents, has launched over 11,000 agents, and more than 140,000 people hold various agent tokens
+  - Notable AI agents include AIXBT, Luna, Cookie, and VaderAI, each with unique functionalities and significant market values
+
+- **AI-DePIN Integration**:
+  - The DePIN narrative has significantly influenced the AI sector, with tokens like AIOZ Network rising 569% in 12 months
+  - AIOZ Network needs to hold $1.00 support to maintain momentum or risk falling to $0.55
+
+- **Market Risks**:
+  - The AI agents sector, like any crypto sector, is volatile. Some agent tokens have dropped 80% after their initial hype phase
+
+#### Key People, Attendees, Speakers, and Investors
+- **Nicolai Sondergaard**:
+  - **Role**: Research Analyst at Nansen
+  - **Contribution**: Provided insights on the potential of AI agents in 2025, foreseeing their growing use across various business sectors
+
+- **Tang**:
+  - **Role**: Leader in the AI agents space
+  - **Contribution**: Discussed the "Agentic Web" and the potential of AI agents in managing finances, creating content, and providing services
+
+- **Shaw**:
+  - **Role**: Influential developer
+  - **Contribution**: Headed ai16Z, a Solana meme coin that evolved into a significant AI agent with a $2.3B valuation
+
+### Summary Table
+
+| Category          | Token Name        | Price   | 1h %  | 24h %  | 7d %  | Market Cap  | Volume          | Circulating Supply  |
+|-------------------|-------------------|---------|-------|--------|-------|-------------|-----------------|---------------------|
+| DePIN             | RenderRENDER      | $3.32   | 2.14% | 14.69% | 10.33%| $1.72B      | $168,256,337    | 517.71M RENDER      |
+| DePIN             | WalrusWAL         | $0.4566 | 0.75% | 10.53% | 21.95%| $585.7M     | $89,969,657     | 1.28B WAL           |
+| DePIN             | BitTorrent BTT    | $0.065926| 0.50% | 4.53%  | 10.44%| $584.37M    | $22,822,150     | 986.06T BTT         |
+| AI Agents         | Virtuals ProtocolVIRTUAL | $0.4883 | 0.00% | 10.22% | 12.80%| $318.01M    | $121,073,119    | 651.18M VIRTUAL     |
+
+### Key People and Contributions
+
+- **Nicolai Sondergaard**: Research Analyst at Nansen, provided insights on AI agents in 2025
+- **Tang**: Leader in the AI agents space, discussed the "Agentic Web" and the potential of AI agents
+- **Shaw**: Influential developer, headed ai16Z, a Solana meme coin that evolved into a significant AI agent
