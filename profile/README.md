@@ -1,4 +1,4 @@
-# CoinMarketCap Priority Acceleration with 10 million plus Cryptocurrencies
+c# CoinMarketCap Priority Acceleration with 10 million plus Cryptocurrencies
 
 Hey brilliant ppl of blockchain, first of all to be maximum transparent your truly [Aleksei Dolgikh have CoinMarketCap.com profile (click here to check haha, my posts sucks I know)](https://coinmarketcap.com/community/profile/alexdolbun/) after those time 7 months ago I checked CLoudFlare Radar report and find out there's CoinMarketCap.com platform top in the world by visitors, I thought let's test it...
 
@@ -307,6 +307,8 @@ The AI and DePIN sectors have seen significant growth and development in 2025. H
 - **Nicolai Sondergaard**: Research Analyst at Nansen, provided insights on AI agents in 2025
 - **Tang**: Leader in the AI agents space, discussed the "Agentic Web" and the potential of AI agents
 - **Shaw**: Influential developer, headed ai16Z, a Solana meme coin that evolved into a significant AI agent
+
+## The ETH Asia panel at the Web3 Festival Hong Kong 2025 YQ Jia, Vitalik Buterin, Ed Felten, Eli Ben-Sasson
 
 ![ETH-Asia-Web3-Festival-Hong-Kong-2025](https://github.com/user-attachments/assets/d48d2bf4-e934-4598-9fad-5713e71de860)
 
