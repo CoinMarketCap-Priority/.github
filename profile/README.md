@@ -19,111 +19,111 @@ The Blockchain Forum 2025 is a major international event focused on blockchain, 
 ### Compiled List of Participants
 Below is a list of at least 100 people likely to be involved, combining your provided names and additional speakers from official announcements. Note that some names are from past top speakers and may not be confirmed for 2025, but they are included to meet your request:
 
-| Name                  | Affiliation/Role                                      |
-|-----------------------|------------------------------------------------------|
-| Mikhail Pokidko       | Deputy Director, Strategy Department, ITMO           |
-| Oleg Setifeev         | Skillbox                                             |
-| Margarita Kadochnikova| Marketing Lead (CIS), Mantle                         |
-| Vladimir Smerkis      | Co-Founder, Blum.io                                  |
-| Denis Balashov        | Managing Partner, SkyCapital                         |
-| Vit Jedlička          | President, Free Republic of Liberland                |
-| Stanislav Kudryashov  | PEK                                                  |
-| Abut Nazaryan         | Crypto/Enterprise Organization (unspecified)         |
-| Aleksei Khitrov       | CEO, ArbitrageScanner.io                             |
-| Gracy Chen            | CEO, Bitget                                         |
-| Vladimir Martynov     | Managing Partner, BR Capital                        |
-| Dung Nguyen           | Head of Business Development, BingX                 |
-| Evgeniy Charkin       | Deputy General Director, Russian Railways            |
-| Aleksei Kostylienko   | CIFRA                                                |
-| Carl Runefelt         | Crypto Entrepreneur                                  |
-| Tracy Jin             | COO, MEXC                                            |
-| Denis Dodon           | Director of Innovations, Alfa-Bank                   |
-| Mikhail Gradenko      | Director, AI Department, Rusal                       |
-| Chris (MMPRYPTO)      | Blogger, Co-Founder, MMCrypto                       |
-| Vladimir Popov, Ph.D. | Stage Host                                           |
-| Evgeniy Krapivin      | WiFi Map                                             |
-| Konstantin Koltsov    | Foilks                                               |
-| Justin Sun            | Founder, TRON, Global Advisor, HTX                   |
-| Sergei Khitrov        | Founder, Listing.Help, Jets.Capital, Blockchain Life |
-| Xinxi Wang            | Co-Founder, Litecoin                                 |
-| Ivan Chebeskov        | Deputy Minister, Finance, Russian Federation         |
-| Nikita Anufriev       | Host, Headliners Podcast                             |
-| Stephan Lutz          | CEO & CFO, BitMEX                                    |
-| Andrey Lugovoy        | First Deputy Chairman, State Duma Committee          |
-| CryptoJack            | Crypto Trader, YouTube Influencer                    |
-| Leo Cryptus           | Co-Founder, Cryptus Media                            |
-| Vladimir Surdin       | Associate Professor, Experimental Astronomy, MSU     |
-| Oleg Mansurov         | Founder & CEO, SR Space                              |
-| Sergei Altukhov       | Deputy Chairman, State Duma Committee, Economic Policy|
-| Cris D. Tran          | Head of Growth, Sandbox                              |
-| Alexander Nam         | Managing Director, Blockchain Lab, Sber              |
-| Chef Kids             | Head, PancakeSwap                                    |
-| Gaidamakin Daniil     | COO, Jets.Capital                                    |
-| Margarita Grazhenskaya| VP, Listing.Help                                     |
-| Alena Afanaseva       | Founder & CEO, BeInCrypto                            |
-| Nikolay Zagvozdkin    | Head, RBC Crypto                                     |
-| Akshat Vaidya         | Co-Founder, Managing Partner, Maelstrom Fund         |
-| Сэнди Пэнг            | Co-Founder, Scroll                                   |
-| Viktor Tarnavsky      | Head of AI, T-Bank                                   |
-| Aleksei Solovev       | TON Society CIS Hub Lead                             |
-| Ivan Livinskiy        | Development Manager, Curve Finance                   |
-| Leonid Maloletov      | Crypto Trader, Entrepreneur                          |
-| Vineet Budki          | CEO & Managing Partner, Sigma Capital                |
-| Sergei Mendeleev      | CEO, exved.com                                       |
-| Timofei Kuzmenko      | Founder & CEO, Promminer                             |
-| Charmaine Lim         | Head of VIP Client Services, HTX                     |
-| Vugar Usi Zade        | COO, Bitget                                          |
-| Oleg Artemiev         | Investor, Crypto Influencer                          |
-| Cais Manai            | Co-Founder & CPO, TEN Protocol                       |
-| Sergey Shalyapin      | CTO, Singularity NET                                 |
-| Ivan Tikhonov         | Founder, Bits.Media                                  |
-| Alexey Ten            | Head of Growth CIS, MEXC                             |
-| Dmitry Machikhin      | Founder & CEO, BitOK                                 |
-| Carl Moon             | Crypto Entrepreneur                                  |
-| Mariela Tanchez       | Head of BD and Growth, IoTeX                         |
-| Dmitry Krutov         | CEO & Founder, Skillbox                              |
-| Andrey Nikolaychuk    | CPO, Transneft Energy, LLC                           |
-| Sunil Sharma          | CEO, CoinGape                                        |
-| Karnika E. Yashwant   | Founder, KEY Difference, Co-Founder, Forward Protocol|
-| Mihael Gradenko       | Director, AI Department, Rusal                       |
-| Evgeny Lashkov        | CEO, Two Comma Club, Co-founder, Dome Foundation     |
-| Anton Tsarenok        | Director, Business Development, ViaBTC               |
-| Jorge Sebastião       | Co-Founder, EcoX                                     |
-| Olga Goncharova       | CEO & Founder, RizzGo, ex-Binance, ex-Ernst & Young  |
-| Emil Panakhov         | Co-Founder, Alpha Dex                                |
-| Oleg Fakeev           | Investor                                             |
-| Anatoly Radchenko     | Co-Founder, Dizraptor, United Traders                |
-| Vyacheslav Nosko      | CEO, Web3 companies Pro Blockchain Media             |
-| Maxim Burkov          | CEO, Web3 companies Pro Blockchain Media             |
-| Denis Vasin           | Co-Founder & Lead Developer, Storm Trade             |
-| Maxim Terekhov        | Founder, GTS Ventures                                |
-| Dmitry Klimchenko     | Founder, TheVSE                                      |
-| Lyubov Skripeleva     | CMO, WiFi Map                                        |
-| Evgeny Mikheev        | Crypto Trader, Influencer                            |
-| Kirill Dorozhkin      | Chairman, Science and Education Committee, NAIF      |
-| Evgeny Popov          | InvestFuture Editor-in-Chief                        |
-| Olga Dvoretskaia      | Founder, The Bridge FC                               |
-| Sophie Cao            | Co-Founder, Zebrasics, Official Representative, ElphaPex|
-| Roman Kaufman         | DeFAI & Marketing Expert                            |
-| Anton Gontarev        | Co-Founder & CCO, Intelion                           |
-| Ramis Abianov         | Managing Partner, Zenitlegal                         |
-| Andrey Tugarin        | Founder, GMT Legal                                   |
-| Ivan Shashkov         | CEO, Cryptoinside                                    |
-| Yulia Zakharchuk      | Host, YouTube-channel Crypto Angels, Host, Forum     |
-| Vladimir Arkhireyskiy | Host, Blockchain Forum, TV Presenter, RBC            |
-| Paolo Ardoino         | CEO, Tether                                          |
-| Reeve Collins         | Co-Founder, ex-CEO, Tether                           |
-| Sergey Nazarov        | Co-Founder, Chainlink                                |
-| Ben Zhou              | Co-Founder & CEO, Bybit                              |
-| Yat Siu               | Co-Founder & Executive Chairman, Animoca Brands      |
-| Frederik Gregaard     | CEO, Cardano Foundation                              |
-| Andrei Grachev        | Managing Partner, DWF Labs                           |
-| Rachel Conlan         | CMO, Binance                                         |
-| Roger Ver             | Founder, Bitcoin.com                                 |
-| Kostas Chalkias       | Co-Founder, Mysten Labs                              |
-| Dominic Williams      | Founder, Chief Scientist, DFINITY                    |
-| Arthur Breitman       | Co-Founder, Tezos                                    |
-| Tim Draper            | Founder, Draper Associates, DFJ                      |
+## Blockchain Life in 2025: International Forum in Moscow List of Speakers and Tokens
+
+| Name | Affiliation | Associated Token | CoinMarketCap Link |
+| --- | --- | --- | --- |
+| Mikhail Pokidko | Deputy Director, Strategy Department, ITMO | None | None |
+| Oleg Setifeev | Skillbox | None | None |
+| Margarita Kadochnikova | Marketing Lead (CIS), Mantle | Mantle (MNT) | https://coinmarketcap.com/currencies/mantle/ |
+| Vladimir Smerkis | Co-Founder, Blum.io | None | None |
+| Denis Balashov | Managing Partner, SkyCapital | None | None |
+| Vit Jedlička | President, Free Republic of Liberland | None | None |
+| Stanislav Kudryashov | PEK | None | None |
+| Abut Nazaryan | Crypto/Enterprise Organization (unspecified) | None | None |
+| Aleksei Khitrov | CEO, ArbitrageScanner.io | None | None |
+| Gracy Chen | CEO, Bitget | Bitget Token (BGB) | https://coinmarketcap.com/currencies/bitget-token/ |
+| Vladimir Martynov | Managing Partner, BR Capital | None | None |
+| Dung Nguyen | Head of Business Development, BingX | None | None |
+| Evgeniy Charkin | Deputy General Director, Russian Railways | None | None |
+| Aleksei Kostylienko | CIFRA | None | None |
+| Carl Runefelt | Crypto Entrepreneur | None | None |
+| Tracy Jin | COO, MEXC | MX Token (MX) | https://coinmarketcap.com/currencies/mx-token/ |
+| Denis Dodon | Director of Innovations, Alfa-Bank | None | None |
+| Mikhail Gradenko | Director, AI Department, Rusal | None | None |
+| Chris (MMPRYPTO) | Blogger, Co-Founder, MMCrypto | None | None |
+| Vladimir Popov, Ph.D. | Stage Host | None | None |
+| Evgeniy Krapivin | WiFi Map | None | None |
+| Konstantin Koltsov | Foilks | None | None |
+| Justin Sun | Founder, TRON, Global Advisor, HTX | TRON (TRX) | https://coinmarketcap.com/currencies/tron/ |
+| Sergei Khitrov | Founder, Listing.Help, Jets.Capital, Blockchain Life | None | None |
+| Xinxi Wang | Co-Founder, Litecoin | Litecoin (LTC) | https://coinmarketcap.com/currencies/litecoin/ |
+| Ivan Chebeskov | Deputy Minister, Finance, Russian Federation | None | None |
+| Nikita Anufriev | Host, Headliners Podcast | None | None |
+| Stephan Lutz | CEO & CFO, BitMEX | BitMEX Token (BMEX) | https://coinmarketcap.com/currencies/bitmex-token/ |
+| Andrey Lugovoy | First Deputy Chairman, State Duma Committee | None | None |
+| CryptoJack | Crypto Trader, YouTube Influencer | None | None |
+| Leo Cryptus | Co-Founder, Cryptus Media | None | None |
+| Vladimir Surdin | Associate Professor, Experimental Astronomy, MSU | None | None |
+| Oleg Mansurov | Founder & CEO, SR Space | None | None |
+| Sergei Altukhov | Deputy Chairman, State Duma Committee | None | None |
+| Cris D. Tran | Head of Growth, Sandbox | The Sandbox (SAND) | https://coinmarketcap.com/currencies/the-sandbox/ |
+| Alexander Nam | Managing Director, Blockchain Lab, Sber | None | None |
+| Chef Kids | Head, PancakeSwap | PancakeSwap (CAKE) | https://coinmarketcap.com/currencies/pancakeswap/ |
+| Gaidamakin Daniil | COO, Jets.Capital | None | None |
+| Margarita Grazhenskaya | VP, Listing.Help | None | None |
+| Alena Afanaseva | Founder & CEO, BeInCrypto | None | None |
+| Nikolay Zagvozdkin | Head, RBC Crypto | None | None |
+| Akshat Vaidya | Co-Founder, Managing Partner, Maelstrom Fund | None | None |
+| Сэнди Пэнг | Co-Founder, Scroll | None | None |
+| Viktor Tarnavsky | Head of AI, T-Bank | None | None |
+| Aleksei Solovev | TON Society CIS Hub Lead | Toncoin (TON) | https://coinmarketcap.com/currencies/toncoin/ |
+| Ivan Livinskiy | Development Manager, Curve Finance | Curve DAO Token (CRV) | https://coinmarketcap.com/currencies/curve-dao-token/ |
+| Leonid Maloletov | Crypto Trader, Entrepreneur | None | None |
+| Vineet Budki | CEO & Managing Partner, Sigma Capital | None | None |
+| Sergei Mendeleev | CEO, exved.com | None | None |
+| Timofei Kuzmenko | Founder & CEO, Promminer | None | None |
+| Charmaine Lim | Head of VIP Client Services, HTX | HTX (HTX) | https://coinmarketcap.com/currencies/htx/ |
+| Vugar Usi Zade | COO, Bitget | Bitget Token (BGB) | https://coinmarketcap.com/currencies/bitget-token/ |
+| Oleg Artemiev | Investor, Crypto Influencer | None | None |
+| Cais Manai | Co-Founder & CPO, TEN Protocol | None | None |
+| Sergey Shalyapin | CTO, Singularity NET | SingularityNET (AGIX) | https://coinmarketcap.com/currencies/singularitynet/ |
+| Ivan Tikhonov | Founder, Bits.Media | None | None |
+| Alexey Ten | Head of Growth CIS, MEXC | MX Token (MX) | https://coinmarketcap.com/currencies/mx-token/ |
+| Dmitry Machikhin | Founder & CEO, BitOK | None | None |
+| Carl Moon | Crypto Entrepreneur | None | None |
+| Mariela Tanchez | Head of BD and Growth, IoTeX | IoTeX (IOTX) | https://coinmarketcap.com/currencies/iotex/ |
+| Dmitry Krutov | CEO & Founder, Skillbox | None | None |
+| Andrey Nikolaychuk | CPO, Transneft Energy, LLC | None | None |
+| Sunil Sharma | CEO, CoinGape | None | None |
+| Karnika E. Yashwant | Founder, KEY Difference | None | None |
+| Evgeny Lashkov | CEO, Two Comma Club | None | None |
+| Anton Tsarenok | Director, Business Development, ViaBTC | None | None |
+| Jorge Sebastião | Co-Founder, EcoX | None | None |
+| Olga Goncharova | CEO & Founder, RizzGo | None | None |
+| Emil Panakhov | Co-Founder, Alpha Dex | None | None |
+| Oleg Fakeev | Investor | None | None |
+| Anatoly Radchenko | Co-Founder, Dizraptor | None | None |
+| Vyacheslav Nosko | CEO, Pro Blockchain Media | None | None |
+| Maxim Burkov | CEO, Pro Blockchain Media | None | None |
+| Denis Vasin | Co-Founder & Lead Developer, Storm Trade | None | None |
+| Maxim Terekhov | Founder, GTS Ventures | None | None |
+| Dmitry Klimchenko | Founder, TheVSE | None | None |
+| Lyubov Skripleleva | CMO, WiFi Map | None | None |
+| Evgeny Mikheev | Crypto Trader, Influencer | None | None |
+| Kirill Dorozhkin | Chairman, NAIF | None | None |
+| Evgeny Popov | InvestFuture Editor-in-Chief | None | None |
+| Olga Dvoretskaia | Founder, The Bridge FC | None | None |
+| Sophie Cao | Co-Founder, Zebrasics | None | None |
+| Roman Kaufman | DeFAI & Marketing Expert | None | None |
+| Anton Gontarev | Co-Founder & CCO, Intelion | None | None |
+| Ramis Abianov | Managing Partner, Zenitlegal | None | None |
+| Andrey Tugarin | Founder, GMT Legal | None | None |
+| Ivan Shashkov | CEO, Cryptoinside | None | None |
+| Yulia Zakharchuk | Host, Crypto Angels | None | None |
+| Vladimir Arkhireyskiy | Host, Blockchain Forum | None | None |
+| Paolo Ardoino | CEO, Tether | Tether (USDT) | https://coinmarketcap.com/currencies/tether/ |
+| Reeve Collins | Co-Founder, ex-CEO, Tether | Tether (USDT) | https://coinmarketcap.com/currencies/tether/ |
+| Sergey Nazarov | Co-Founder, Chainlink | Chainlink (LINK) | https://coinmarketcap.com/currencies/chainlink/ |
+| Ben Zhou | Co-Founder & CEO, Bybit | Mantle (MNT) | https://coinmarketcap.com/currencies/mantle/ |
+| Yat Siu | Co-Founder & Executive Chairman, Animoca Brands | The Sandbox (SAND) | https://coinmarketcap.com/currencies/the-sandbox/ |
+| Frederik Gregaard | CEO, Cardano Foundation | Cardano (ADA) | https://coinmarketcap.com/currencies/cardano/ |
+| Rachel Conlan | CMO, Binance | Binance Coin (BNB) | https://coinmarketcap.com/currencies/bnb/ |
+| Roger Ver | Founder, Bitcoin.com | Bitcoin Cash (BCH) | https://coinmarketcap.com/currencies/bitcoin-cash/ |
+| Kostas Chalkias | Co-Founder, Mysten Labs | Sui (SUI) | https://coinmarketcap.com/currencies/sui/ |
+| Dominic Williams | Founder, Chief Scientist, DFINITY | Internet Computer (ICP) | https://coinmarketcap.com/currencies/internet-computer/ |
+| Arthur Breitman | Co-Founder, Tezos | Tezos (XTZ) | https://coinmarketcap.com/currencies/tezos/ |
+| Tim Draper | Founder, Draper Associates, DFJ | None | None |
 
 ### Supporting Information
 For more details, you can visit the official website at [Blockchain Forum](https://blockchain.forum/en/) to check for updates on speakers and agenda.
