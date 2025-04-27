@@ -977,3 +977,98 @@ Blockchain is revolutionizing trade finance by addressing inefficiencies, reduci
 - [Blockchain in Trade Finance Challenges](https://academy.iccwbo.org/digital-trade/article/blockchain-in-trade-finance-challenges-and-opportunities/)
 - [Blockchain Use Cases in Finance](https://consensys.io/blockchain-use-cases/finance)
 - [XDC Network and TradeFlow Partnership](https://www.nasdaq.com/articles/xdc-network-and-tradeflow-capital-partner-to-streamline-global-trade-finance)
+
+
+![worldlibertyfinancial com Aleksei Dolgikh 2025  Glocal is thinking globally and acting locally, with local identity](https://github.com/user-attachments/assets/df2c9266-cf56-4290-9537-704360bfcae4)
+
+
+# TRUMP DeFi Project WLFI WorldLibertyFinancial.com Review by Aleksei DOLGIKH
+
+World Liberty Financial (WLFI) is a decentralized finance (DeFi) project launched in 2024, prominently backed by the Trump family. It aims to democratize access to DeFi services, such as lending and borrowing, while promoting the dominance of U.S.-pegged stablecoins in global finance. This review, authored by Aleksei DOLGIKH, explores WLFI’s leadership, financial performance, token purchases, governance structure, and future prospects, drawing on verified information to provide a balanced perspective.
+
+## Key Decision-Makers
+
+WLFI’s leadership blends political influence with crypto expertise, though some backgrounds have sparked debate. The key figures include:
+
+- **Donald J. Trump**, "Chief Crypto Advocate," leveraging his public profile to promote the project.
+- **Eric Trump** and **Donald Trump Jr.**, "Web3 Ambassadors," advocating for blockchain adoption.
+- **Barron Trump**, "DeFi Visionary," contributing to the project’s strategic vision.
+- **Chase Herro**, Co-Founder, previously involved with Dough Finance, which faced a $2.1 million hack in 2024 ([CoinLedger](https://coinledger.io/learn/world-liberty-financial)).
+- **Zak Folkman**, Co-Founder, known for controversial ventures like Date Hotter Girls.
+- **Steven Witkoff**, Co-Founder, a real estate developer and Trump donor, with sons **Zach Witkoff** and **Alex Witkoff** also as co-founders.
+- **Rich Teo**, Stablecoin & Payment Lead, co-founder of itBit and Paxos, bringing stablecoin expertise.
+- **Corey Caplan**, Head of Technical Strategy, co-founder of Dolomite.
+- **Octavian Lojnita**, Blockchain Lead, and **Bogdan Purnavel**, Lead Developer, both previously at Dough Finance.
+- **Alex Golubitsky**, Legal Counsel, an international tax attorney.
+
+This mix of seasoned crypto professionals and less conventional figures has led to mixed sentiments about WLFI’s credibility and direction.
+
+## Financials and Token Sales
+
+WLFI has raised significant capital, with reports indicating over $550 million from token sales ([CNBC](https://www.cnbc.com/2025/03/17/trump-world-liberty-financial-crypto-sold-550-million-in-tokens.html)). However, a specific sale targeting $300 million only achieved 4.99 billion tokens sold for $74.85 million at $0.015 per token, falling short of expectations. The WLFI token is non-transferable and solely used for governance, limiting its appeal to investors seeking tradable assets ([CoinGecko](https://www.coingecko.com/learn/what-is-world-liberty-financial-donald-trump-s-crypto-project)).
+
+A notable concern is the token allocation, with up to 70% reportedly held by insiders, including founders and service providers ([CoinDesk](https://www.coindesk.com/business/2024/09/04/in-trump-backed-crypto-project-insiders-are-poised-for-unusually-big-paydays)). This has fueled criticism that WLFI may prioritize insiders, with some calling it a “grift” exploiting the Trump name. Project advisors counter that 63% of tokens are allocated for public sale, though discrepancies in reported figures persist ([CoinLedger](https://coinledger.io/learn/world-liberty-financial)).
+
+Justin Sun, Tron’s founder, is the largest investor, contributing $30 million and later increasing his stake to $75 million, also serving as an advisor ([CNBC](https://www.cnbc.com/2025/03/17/trump-world-liberty-financial-crypto-sold-550-million-in-tokens.html)).
+
+### Token Sale Performance
+
+| Metric                     | Details                                      |
+|----------------------------|----------------------------------------------|
+| Total Raised               | Over $550 million                            |
+| Target for Specific Sale   | $300 million                                 |
+| Actual Sale Amount         | $74.85 million (4.99 billion tokens)          |
+| Token Price                | $0.015 per token                             |
+| Insider Allocation         | Up to 70% (disputed, 63% public per advisors) |
+| Largest Investor           | Justin Sun ($30M, later $75M)                |
+
+## Token Purchases
+
+WLFI has actively invested in the crypto market, with a portfolio valued at approximately $76.9 million ([CCN](https://www.ccn.com/news/crypto/world-liberty-financial-wlfi-token-launch/)). Notable purchases include:
+
+- $30 million USDC for 8,105 ETH
+- $10 million USDC for 103 cbBTC
+- $2 million USDC for 78,387 LINK
+- $2 million USDC for 6,137 AAVE
+- $500,000 USDC for 509,955 ENA
+- $250,000 USDC for 134,216 ONDO
+
+Additionally, WLFI holds 30 million TRX valued at $7.43 million ([Reuters](https://www.reuters.com/technology/trump-connection-why-some-bought-world-liberty-financial-tokens-2025-01-23/)) and other assets like wrapped Bitcoin and staked ether, with ETH comprising about half of its $378 million crypto holdings ([Blockworks](https://blockworks.co/news/trump-backed-project-token-swaps)). These purchases reflect WLFI’s strategy to build a robust DeFi portfolio, though their long-term impact on market confidence remains uncertain.
+
+### Token Purchase Breakdown
+
+| Token  | USDC Amount   | Quantity Acquired |
+|--------|---------------|-------------------|
+| ETH    | $30,000,000   | 8,105             |
+| cbBTC  | $10,000,000   | 103               |
+| LINK   | $2,000,000    | 78,387            |
+| AAVE   | $2,000,000    | 6,137             |
+| ENA    | $500,000      | 509,955           |
+| ONDO   | $250,000      | 134,216           |
+| TRX    | N/A           | 30,000,000 ($7.43M) |
+
+## Governance and Project Proposals
+
+On December 13, 2024, WLFI’s community approved a governance proposal to deploy an Aave v3 lending instance on Ethereum’s mainnet ([Aave Governance](https://governance.aave.com/t/temp-check-world-liberty-financial-aave-v3-instance-on-ethereum-mainnet-proposal/19383)). Key aspects include:
+
+- Allocating 7% of WLFI tokens and 20% of future platform fees to Aave DAO.
+- Providing liquidity for ETH and Wrapped Bitcoin (WBTC) using stablecoins like USDC and USDT.
+
+This collaboration aims to expand Aave’s user base, enhance liquidity, and reinforce Aave’s leadership in DeFi lending. WLFI’s integration with Aave’s established infrastructure, rather than building a new protocol, leverages Aave’s reliability while aligning with WLFI’s stablecoin-focused mission ([BitDegree](https://www.bitdegree.org/crypto/news/trumps-world-liberty-financial-lays-out-plans-for-aave-integration)).
+
+Additionally, a proposal to integrate Ethena Labs’ sUSDe as collateral in WLFI’s Aave model was submitted, potentially increasing stablecoin liquidity if approved ([BitcoinEthereumNews](https://bitcoinethereumnews.com/crypto/breaking-binance-listed-altcoin-partners-with-donald-trumps-cryptocurrency-project-world-liberty-financial/)).
+
+## Project Outlook
+
+WLFI’s ambitious vision to “make crypto and America great” by driving stablecoin adoption is backed by high-profile figures and significant capital. Its partnership with Aave and token purchases signal a commitment to DeFi innovation. However, several challenges temper optimism:
+
+- **Transparency Concerns**: The allocation of up to 70% of tokens to insiders has drawn criticism, with some questioning whether WLFI prioritizes the Trump family’s financial gain over public benefit ([CoinDesk](https://www.coindesk.com/business/2024/09/04/in-trump-backed-crypto-project-insiders-are-poised-for-unusually-big-paydays)).
+- **Credibility Questions**: Team members like Herro and Folkman, with controversial past ventures, contribute to skepticism about WLFI’s ability to deliver ([CoinLedger](https://coinledger.io/learn/world-liberty-financial)).
+- **Innovation Uncertainty**: WLFI’s reliance on Aave’s infrastructure, while strategic, raises questions about its ability to offer unique value in a crowded DeFi market.
+- **Regulatory Risks**: The project’s high-profile nature and Trump family involvement may attract regulatory scrutiny, especially given reported SEC investigations into advisor Justin Sun ([Wikipedia](https://en.wikipedia.org/wiki/World_Liberty_Financial)).
+
+Despite these concerns, WLFI’s $550 million in token sales and partnerships with Aave and Ethena Labs demonstrate market interest and strategic intent. The project’s success hinges on transparent governance, innovative offerings, and navigating regulatory challenges under Donald Trump’s second presidency.
+
+## Conclusion
+
+World Liberty Financial represents a bold entry into DeFi, leveraging the Trump family’s influence and crypto expertise to promote stablecoin adoption. Its significant token purchases and Aave collaboration highlight potential, but transparency issues, insider allocations, and unproven innovation pose risks. For investors and observers, WLFI remains a high-stakes venture that could either reshape DeFi or falter under scrutiny. Aleksei DOLGIKH’s review underscores the need for cautious optimism as WLFI navigates its path forward.
