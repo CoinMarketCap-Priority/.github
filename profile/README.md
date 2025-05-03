@@ -1154,3 +1154,228 @@ Aleksei, your article beautifully captures Meteora’s vision and its potential 
 ## Conclusion
 Meteora and the LP Army represent a bold step forward in DeFi, offering a secure, sustainable, and community-driven platform for liquidity providers. For those looking to make their assets liquid, Meteora provides innovative tools, competitive yields, and a supportive community, all built on Solana’s high-performance blockchain. As the platform evolves with new features and DAO governance, it’s poised to become a cornerstone of Solana’s DeFi ecosystem. Join the LP Army, explore Meteora’s offerings, and be part of a movement that’s shaping the future of decentralized finance.
 
+# Top 30 People Involved with YZi Labs
+
+![yzi-labs](https://github.com/user-attachments/assets/4ba2a1f7-a1f1-447c-bcf8-a78acc9429f3)
+
+YZi Labs, formerly Binance Labs, is a prominent venture capital firm investing in Web3, artificial intelligence, and biotechnology. Transitioning from Binance’s venture arm to a family office managed by Changpeng "CZ" Zhao and Yi He, YZi Labs supports innovative blockchain and tech projects globally. Below is a detailed list of the top 30 individuals involved with YZi Labs, including general partners, team members, presenters, and founders of key portfolio companies. This list reflects the firm’s leadership, investment team, and broader ecosystem, based on publicly available information as of May 2025.
+
+## Leadership and Team Members
+
+1. **Changpeng "CZ" Zhao**  
+   - **Role**: Co-Founder of Binance, involved with YZi Labs  
+   - **Details**: Zhao launched Binance in 2017, growing it into the world’s largest cryptocurrency exchange by trading volume. After his release from prison in 2025, he returned to an active role in YZi Labs, overseeing its transition to a $10 billion family office. His strategic vision drives YZi Labs’ investments in Web3, AI, and biotech.  
+   - **Source**: [Finance Magnates](https://www.financemagnates.com/trending/zhao-converts-binance-labs-into-10-billion-family-office-yzi-labs/)
+
+2. **Yi He**  
+   - **Role**: Co-Founder of Binance, Leader of YZi Labs  
+   - **Details**: As a co-founder of Binance and former Vice President at Yixia Technology, Yi He brings extensive experience in tech and blockchain. She leads YZi Labs’ strategic direction and investment decisions, managing the family office alongside Zhao.  
+   - **Source**: User-provided information
+
+3. **Ella Zhang**  
+   - **Role**: Head of YZi Labs  
+   - **Details**: Zhang established Binance Labs in 2018 and returned in 2025 to lead YZi Labs. Her leadership focuses on expanding investments into AI and biotechnology, aiming to grow the team from 9 to 20 members.  
+   - **Source**: [CryptoRank.io](https://cryptorank.io/funds/binance-labs/team)
+
+4. **Alex Odagiu**  
+   - **Role**: Investment Director  
+   - **Details**: Specializing in token, equity, and strategic investments, Odagiu has ties to Silicon Valley from his time at Goldman Sachs and a London-based tech fund. He connects YZi Labs with global investors and startups.  
+   - **Source**: [Private Equity International](https://www.privateequityinternational.com/institution-profiles/yzi-labs.html)
+
+5. **Dana Hou**  
+   - **Role**: Investment Partner  
+   - **Details**: Hou plays a key role in YZi Labs’ investment strategy, evaluating and managing portfolio projects in Web3 and blockchain.  
+   - **Source**: [CryptoRank.io](https://cryptorank.io/funds/binance-labs/team)
+
+6. **Andy Chang**  
+   - **Role**: Investment Director  
+   - **Details**: Chang identifies and nurtures investment opportunities, contributing to YZi Labs’ portfolio growth in DeFi and infrastructure projects.  
+   - **Source**: [CryptoRank.io](https://cryptorank.io/funds/binance-labs/team)
+
+7. **Max Coniglio**  
+   - **Role**: Investment Director  
+   - **Details**: Coniglio supports YZi Labs’ investment decisions, focusing on high-potential startups in Web3, AI, and healthcare.  
+   - **Source**: [CryptoRank.io](https://cryptorank.io/funds/binance-labs/team)
+
+8. **Nicola W.**  
+   - **Role**: Team Member (specific role undisclosed)  
+   - **Details**: Listed as part of YZi Labs’ team, Nicola W.’s contributions are not publicly detailed but likely support investment or operational activities.  
+   - **Source**: [CryptoRank.io](https://cryptorank.io/funds/binance-labs/team)
+
+9. **Jane He**  
+   - **Role**: Team Member (specific role undisclosed)  
+   - **Details**: A team member at YZi Labs, Jane He’s role is not specified but may involve investment analysis or portfolio management.  
+   - **Source**: [CryptoRank.io](https://cryptorank.io/funds/binance-labs/team)
+
+10. **Dana Hong**  
+    - **Role**: Investment Operations Associate  
+    - **Details**: Hong supports the operational side of YZi Labs’ investments, ensuring smooth execution of funding rounds and portfolio management.  
+    - **Source**: [Private Equity International](https://www.privateequityinternational.com/institution-profiles/yzi-labs.html)
+
+11. **Elissa Young**  
+    - **Role**: Marketing and Public Relations Professional  
+    - **Details**: Young handles YZi Labs’ external communications, promoting the firm’s investments and initiatives in the blockchain space.  
+    - **Source**: [Private Equity International](https://www.privateequityinternational.com/institution-profiles/yzi-labs.html)
+
+12. **Yibo Ling**  
+    - **Role**: Chief Business Officer at Binance, involved with YZi Labs  
+    - **Details**: Ling facilitates strategic partnerships and investments for YZi Labs, leveraging his extensive network in tech and blockchain. He also connects YZi Labs with Silicon Valley ecosystems.  
+    - **Source**: User-provided information
+
+## Presenters and Ecosystem Contributors
+
+13. **Georgios Vlachos**  
+    - **Role**: Presenter from Axelar Network  
+    - **Details**: Vlachos shared best practices for managing multi-chain applications with YZi Labs’ MVB Season 6 cohort, contributing to the firm’s educational initiatives.  
+    - **Source**: User-provided information
+
+14. **Stephen Fluin**  
+    - **Role**: Presenter from Axelar Network  
+    - **Details**: Fluin collaborated with Vlachos to provide insights on multi-chain apps, enhancing YZi Labs’ support for portfolio companies.  
+    - **Source**: User-provided information
+
+## Founders of Key Portfolio Companies
+
+YZi Labs has invested in over 250 projects, with notable portfolio companies like Sui, Blum, EthSign, and Thena. The founders of these projects are integral to YZi Labs’ ecosystem, driving innovation in blockchain and DeFi.
+
+### Sui (Mysten Labs)
+Sui is a layer-1 blockchain backed by YZi Labs, known for its scalability and Web3 infrastructure.
+
+15. **Evan Cheng**  
+    - **Role**: CEO and Co-Founder of Mysten Labs (Sui)  
+    - **Details**: Former Head of R&D at Meta’s Novi, Cheng leads Sui’s development, focusing on scalable blockchain solutions.  
+    - **Source**: [Sui Developer Forum](https://forums.sui.io/t/who-is-sui-team/23145)
+
+16. **Sam Blackshear**  
+    - **Role**: CTO and Co-Founder of Mysten Labs (Sui)  
+    - **Details**: A former Novi engineer, Blackshear specializes in the Move programming language, enhancing Sui’s technical framework.  
+    - **Source**: [Sui Developer Forum](https://forums.sui.io/t/who-is-sui-team/23145)
+
+17. **Adeniyi Abiodun**  
+    - **Role**: CPO and Co-Founder of Mysten Labs (Sui)  
+    - **Details**: Previously at VMware and Oracle, Abiodun oversees Sui’s product strategy for Web3 adoption.  
+    - **Source**: [Sui Developer Forum](https://forums.sui.io/t/who-is-sui-team/23145)
+
+18. **George Danezis**  
+    - **Role**: Chief Scientist and Co-Founder of Mysten Labs (Sui)  
+    - **Details**: A blockchain researcher from Meta’s Novi, Danezis advances Sui’s technical innovations.  
+    - **Source**: [Sui Developer Forum](https://forums.sui.io/t/who-is-sui-team/23145)
+
+19. **Kostas Chalkias**  
+    - **Role**: Security Lead and Co-Founder of Mysten Labs (Sui)  
+    - **Details**: Chalkias ensures Sui’s security, drawing on his experience from Meta’s Novi division.  
+    - **Source**: [Sui Developer Forum](https://forums.sui.io/t/who-is-sui-team/23145)
+
+### Blum
+Blum is a hybrid crypto trading platform supported by YZi Labs’ MVB Accelerator Program.
+
+20. **Gleb Kostarev**  
+    - **Role**: CEO and Co-Founder of Blum  
+    - **Details**: A former Binance VP, Kostarev leverages his expertise in operational strategy to scale Blum’s trading platform.  
+    - **Source**: [Gate.io](https://www.gate.io/learn/articles/what-is-blum-all-you-need-to-know-about-blum/4004)
+
+21. **Vladimir Smerkis**  
+    - **Role**: CMO and Co-Founder of Blum  
+    - **Details**: With experience at Binance and Red Bull, Smerkis drives Blum’s marketing and user engagement.  
+    - **Source**: [Gate.io](https://www.gate.io/learn/articles/what-is-blum-all-you-need-to-know-about-blum/4004)
+
+22. **Vladimir Maslyakov**  
+    - **Role**: CTO and Co-Founder of Blum  
+    - **Details**: Maslyakov brings over 20 years of experience in finance and blockchain to develop Blum’s technical infrastructure.  
+    - **Source**: [Gate.io](https://www.gate.io/learn/articles/what-is-blum-all-you-need-to-know-about-blum/4004)
+
+### EthSign
+EthSign is a decentralized e-signing platform backed by YZi Labs, offering blockchain-based document signing.
+
+23. **Xin Yan**  
+    - **Role**: CEO and Co-Founder of EthSign  
+    - **Details**: Previously at Huobi’s investment arm, Yan leads EthSign’s mission to enhance trust in electronic signatures.  
+    - **Source**: [Crunchbase](https://www.crunchbase.com/organization/ethsign)
+
+24. **Potter Li**  
+    - **Role**: Co-Founder of EthSign  
+    - **Details**: Li contributes to EthSign’s development, focusing on smart contract integration for agreements.  
+    - **Source**: [Crunchbase](https://www.crunchbase.com/organization/ethsign)
+
+25. **Jack Xu**  
+    - **Role**: Co-Founder of EthSign  
+    - **Details**: Xu supports EthSign’s foundational setup, bridging crypto and traditional business use cases.  
+    - **Source**: [Crunchbase](https://www.crunchbase.com/organization/ethsign)
+
+### Thena
+Thena is a decentralized exchange and liquidity platform on BNB Chain, supported by YZi Labs.
+
+26. **Theseus**  
+    - **Role**: CEO and Co-Founder of Thena  
+    - **Details**: A DeFi expert since 2020, Theseus leads Thena’s vision as a native liquidity layer for BNB Chain.  
+    - **Source**: [Thena.fi](https://thena.fi/)
+
+27. **0xApollo**  
+    - **Role**: CMO and Co-Founder of Thena  
+    - **Details**: With over a decade in DeFi, 0xApollo drives Thena’s marketing and community engagement.  
+    - **Source**: [Thena.fi](https://thena.fi/)
+
+28. **Xermes**  
+    - **Role**: Community Lead and Co-Founder of Thena  
+    - **Details**: Xermes organizes Thena’s community, emphasizing clear communication and engagement.  
+    - **Source**: [Thena.fi](https://thena.fi/)
+
+29. **Theonysus**  
+    - **Role**: Business Development Lead and Co-Founder of Thena  
+    - **Details**: With a background in banking, Theonysus fosters partnerships for Thena’s growth.  
+    - **Source**: [Thena.fi](https://thena.fi/)
+
+30. **Prometheus**  
+    - **Role**: CTO and Co-Founder of Thena  
+    - **Details**: A smart contract engineering expert, Prometheus builds Thena’s secure technical infrastructure.  
+    - **Source**: [Thena.fi](https://thena.fi/)
+
+## Summary Table
+
+| **Name**              | **Role**                                      | **Organization**       | **Key Contribution**                                                                 |
+|-----------------------|-----------------------------------------------|------------------------|-------------------------------------------------------------------------------------|
+| Changpeng Zhao        | Co-Founder, Involved with YZi Labs            | YZi Labs               | Oversees transition to family office, drives investment strategy                    |
+| Yi He                 | Co-Founder, Leader of YZi Labs                | YZi Labs               | Leads strategic direction and investment decisions                                  |
+| Ella Zhang            | Head of YZi Labs                              | YZi Labs               | Expands investments into AI and biotech, grows team                                 |
+| Alex Odagiu           | Investment Director                           | YZi Labs               | Manages token and equity investments, connects with Silicon Valley                  |
+| Dana Hou              | Investment Partner                            | YZi Labs               | Evaluates and manages portfolio projects                                            |
+| Andy Chang            | Investment Director                           | YZi Labs               | Identifies high-potential startups                                                  |
+| Max Coniglio          | Investment Director                           | YZi Labs               | Supports investment strategy in Web3 and AI                                         |
+| Nicola W.             | Team Member                                   | YZi Labs               | Supports investment or operational activities (role unspecified)                    |
+| Jane He               | Team Member                                   | YZi Labs               | Contributes to investment or portfolio management (role unspecified)                |
+| Dana Hong             | Investment Operations Associate                | YZi Labs               | Ensures smooth execution of funding rounds                                          |
+| Elissa Young          | Marketing and PR Professional                  | YZi Labs               | Promotes YZi Labs’ initiatives and investments                                      |
+| Yibo Ling             | Chief Business Officer, Involved with YZi Labs| Binance/YZi Labs       | Facilitates partnerships and Silicon Valley connections                             |
+| Georgios Vlachos      | Presenter                                     | Axelar Network         | Shares multi-chain app best practices with MVB cohort                               |
+| Stephen Fluin         | Presenter                                     | Axelar Network         | Provides insights on multi-chain applications                                      |
+| Evan Cheng            | CEO and Co-Founder                            | Mysten Labs (Sui)      | Leads Sui’s scalable blockchain development                                         |
+| Sam Blackshear        | CTO and Co-Founder                            | Mysten Labs (Sui)      | Enhances Sui’s technical framework with Move language                               |
+| Adeniyi Abiodun       | CPO and Co-Founder                            | Mysten Labs (Sui)      | Oversees Sui’s product strategy for Web3 adoption                                   |
+| George Danezis        | Chief Scientist and Co-Founder                | Mysten Labs (Sui)      | Advances blockchain research for Sui                                                |
+| Kostas Chalkias       | Security Lead and Co-Founder                  | Mysten Labs (Sui)      | Ensures Sui’s security infrastructure                                               |
+| Gleb Kostarev         | CEO and Co-Founder                            | Blum                   | Scales Blum’s hybrid trading platform                                               |
+| Vladimir Smerkis      | CMO and Co-Founder                            | Blum                   | Drives Blum’s marketing and user engagement                                         |
+| Vladimir Maslyakov    | CTO and Co-Founder                            | Blum                   | Develops Blum’s technical infrastructure                                            |
+| Xin Yan               | CEO and Co-Founder                            | EthSign                | Leads EthSign’s decentralized e-signing platform                                    |
+| Potter Li             | Co-Founder                                    | EthSign                | Integrates smart contracts for EthSign’s agreements                                 |
+| Jack Xu               | Co-Founder                                    | EthSign                | Bridges crypto and traditional use cases for EthSign                                |
+| Theseus               | CEO and Co-Founder                            | Thena                  | Leads Thena’s vision as BNB Chain’s liquidity layer                                 |
+| 0xApollo              | CMO and Co-Founder                            | Thena                  | Drives Thena’s marketing and community engagement                                   |
+| Xermes                | Community Lead and Co-Founder                 | Thena                  | Organizes Thena’s community and communication                                       |
+| Theonysus             | Business Development Lead and Co-Founder      | Thena                  | Fosters partnerships for Thena’s growth                                             |
+| Prometheus            | CTO and Co-Founder                            | Thena                  | Builds Thena’s secure technical infrastructure                                      |
+
+## Selection Criteria
+- **YZi Labs Team**: Includes founders, general partners, and staff directly involved in operations, drawn from sources like CryptoRank.io and Private Equity International.
+- **Presenters**: Includes individuals like Vlachos and Fluin, who contributed to YZi Labs’ MVB program, as noted in user-provided data.
+- **Portfolio Founders**: Founders of major projects like Sui, Blum, EthSign, and Thena are included due to their significance in YZi Labs’ investment portfolio, which spans over 250 projects.
+- **Data Limitations**: YZi Labs’ small team size (9-20 members) and limited public disclosures restricted the number of internal staff listed. Portfolio founders were added to reflect the firm’s ecosystem impact.
+
+## Challenges and Notes
+- **Limited Team Information**: YZi Labs’ team is small, and not all roles are publicly documented, making it challenging to identify 30 internal members.
+- **Guest Speakers**: While YZi Labs hosts guest speakers for its MVB program, specific names beyond Vlachos and Fluin are not publicly available.
+- **Portfolio Focus**: Including founders of portfolio companies aligns with YZi Labs’ mission to support transformative projects, but selecting which projects to highlight was based on prominence (e.g., Sui’s high ROI).
+- **Data Sources**: Information was cross-referenced from CryptoRank.io, Private Equity International, and portfolio company websites to ensure accuracy.
+
+## Conclusion
+YZi Labs’ influence in the blockchain and venture capital space stems from its leadership, investment team, and the founders of its portfolio companies. This list of 30 individuals captures the core figures driving YZi Labs’ mission, from general partners like Yi He to innovators like Evan Cheng of Sui. While public data limits the visibility of some team members, the inclusion of portfolio founders highlights YZi Labs’ broad impact. For the latest updates, visit [YZi Labs’ official website](https://www.yzilabs.com/).
